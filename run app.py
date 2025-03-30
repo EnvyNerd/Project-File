@@ -1,8 +1,3 @@
-import sys
-sys.path.append(r"C:\Program Files\Python313\Lib\site-packages")
-
-import joblib  # Try importing again
-
 import streamlit as st
 import pandas as pd
 import joblib
